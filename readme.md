@@ -1,6 +1,6 @@
 # Examen Final: Conceptos Técnicos - Adiel Subiabre
 
-Este repositorio contiene el examen final para la asignatura **Conceptos Técnicos** del **CFT Los Lagos**, donde se han cumplido una serie de actividades que abarcan cuestionarios, medallas en GitHub, creación de perfil profesional en LinkedIn, módulos de Microsoft Learn, y la creación de un portafolio web adaptado a dispositivos móviles.
+Este repositorio contiene el examen final para la asignatura **Conceptos Técnicos Informaticos** del **CFT Los Lagos**, donde se han cumplido una serie de actividades que abarcan cuestionarios, medallas en GitHub, creación de perfil profesional en LinkedIn, módulos de Microsoft Learn, y la creación de un portafolio web adaptado a dispositivos móviles.
 
 ## Tabla de Contenidos
 
@@ -42,7 +42,7 @@ He realizado todos los **cuestionarios formativos y sumativos** disponibles en l
 
 ## Medallas en GitHub
 
-He obtenido al menos **5 medallas** en mi perfil de GitHub a través de actividades en repositorios, contribuciones, proyectos y otras dinámicas.
+He obtenido al menos **4 medallas** en mi perfil de GitHub a través de actividades en repositorios, contribuciones, proyectos y otras dinámicas.
 
 ### Captura de Pantalla del Perfil de GitHub
 
@@ -50,7 +50,7 @@ He obtenido al menos **5 medallas** en mi perfil de GitHub a través de activida
 
 ## Perfil Profesional en LinkedIn
 
-He creado y completado un perfil profesional en **LinkedIn** con los siguientes puntos:
+He creado y completado un perfil profesional en **LinkedIn** https://www.linkedin.com/in/adiel-alejandro-subiabre-diaz-070890340/ con los siguientes puntos:
 
 - Foto de perfil presentable.
 - Imagen de cabecera adecuada.
@@ -82,7 +82,6 @@ He completado los siguientes **4 módulos de Microsoft Learn** sobre Git:
 ## Plantilla de Portafolio y Personalización
 
 He descargado y adaptado un **template de portafolio** desde [ThemeWagon](https://themewagon.com/theme-tag/portfolio-template/). He personalizado completamente el portafolio con mis datos, habilidades y certificaciones, para que no se vea como un template estándar.
-
 El portafolio incluye:
 
 - Enlaces importantes, como mi perfil de **LinkedIn** y **GitHub**.
