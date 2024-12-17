@@ -80,7 +80,7 @@ He completado los siguientes **4 módulos de Microsoft Learn** sobre Git:
 ![Microsoft Learn](imagenes/captura_modulos.jpeg)
 
 ## Plantilla de Portafolio y Personalización
-
+https://xfoonkeemoonkeex.github.io/examenFinal_ConceptosTecnicos_AdielSubiabre_CFT_LOS_LAGOS/
 He descargado y adaptado un **template de portafolio** desde [ThemeWagon](https://themewagon.com/theme-tag/portfolio-template/). He personalizado completamente el portafolio con mis datos, habilidades y certificaciones, para que no se vea como un template estándar.
 El portafolio incluye:
 
