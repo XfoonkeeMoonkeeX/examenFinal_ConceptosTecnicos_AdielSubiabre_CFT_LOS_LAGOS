@@ -57,6 +57,6 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, revisa el archivo 
 
 ## Contacto
 
-- **Correo Electrónico**: [adiel.subiabre@gmail.com](mailto:adiel.subiabre@gmail.com)
+- **Correo Electrónico**: [adiel.subiabre@gmail.com](mailto:aa.subiabre@estudiantecft-ell.cl)
 - **LinkedIn**: [Adiel Subiabre](https://www.linkedin.com/in/adiel-alejandro-subiabre-diaz-070890340/)
 - **GitHub**: [XfoonkeeMoonkeeX](https://github.com/XfoonkeeMoonkeeX)
