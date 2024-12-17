@@ -51,7 +51,7 @@ He obtenido al menos **4 medallas** en mi perfil de GitHub a través de activida
 ## Perfil Profesional en LinkedIn
 
 He creado y completado un perfil profesional en **LinkedIn** con los siguientes puntos:
-
+https://www.linkedin.com/in/adiel-alejandro-subiabre-diaz-070890340/
 - Foto de perfil presentable.
 - Imagen de cabecera adecuada.
 - Publicación de experiencia laboral, proyectos y estudios.
