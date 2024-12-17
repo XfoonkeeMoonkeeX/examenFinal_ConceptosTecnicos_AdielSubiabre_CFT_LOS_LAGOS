@@ -14,11 +14,31 @@ Este repositorio contiene el examen final para la asignatura **Conceptos Técnic
 
 ## Cuestionarios Formativos y Sumativos
 
-He realizado todos los **cuestionarios formativos y sumativos** disponibles en la plataforma **Quinttos** relacionados con la asignatura. Estos cuestionarios han sido completados y me han permitido fortalecer mis conocimientos sobre los temas tratados.
+He realizado todos los **cuestionarios formativos y sumativos** disponibles en la plataforma **Quinttos** relacionados con la asignatura.
 
-### Captura de Pantalla
+### Cuestionario 1
 
-![Cuestionarios Completados](imagenes/captura_cuestionarios.png)
+![Cuestionario 1](imagenes/captura_cuestionario_1.png)
+
+### Cuestionario 2
+
+![Cuestionario 2](imagenes/captura_cuestionario_2.png)
+
+### Cuestionario 3
+
+![Cuestionario 3](imagenes/captura_cuestionario_3.png)
+
+### Cuestionario 4
+
+![Cuestionario 4](imagenes/captura_cuestionario_4.png)
+
+### Cuestionario 5
+
+![Cuestionario 5](imagenes/captura_cuestionario_5.png)
+
+### Cuestionario 6
+
+![Cuestionario 6](imagenes/captura_cuestionario_6.png)
 
 ## Medallas en GitHub
 
