@@ -77,7 +77,7 @@ He completado los siguientes **4 módulos de Microsoft Learn** sobre Git:
 
 ### Captura de Pantalla de los Módulos Completados
 
-![Microsoft Learn](imagenes/captura_microsoft_learn.png)
+![Microsoft Learn](imagenes/captura_modulos.jpeg)
 
 ## Plantilla de Portafolio y Personalización
 
