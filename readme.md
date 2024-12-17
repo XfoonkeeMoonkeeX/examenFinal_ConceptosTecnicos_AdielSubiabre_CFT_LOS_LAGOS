@@ -46,7 +46,7 @@ He obtenido al menos **5 medallas** en mi perfil de GitHub a través de activida
 
 ### Captura de Pantalla del Perfil de GitHub
 
-![Medallas de GitHub](imagenes/captura_medallas_github.png)
+![Medallas de GitHub](imagenes/captura_medallas_github.jpeg)
 
 ## Perfil Profesional en LinkedIn
 
