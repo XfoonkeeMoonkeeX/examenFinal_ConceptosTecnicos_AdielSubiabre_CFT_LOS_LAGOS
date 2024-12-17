@@ -1,62 +1,91 @@
-# Portafolio Web de Adiel Subiabre
+# Examen Final: Conceptos Técnicos - Adiel Subiabre
 
-Este proyecto es el portafolio web personal de **Adiel Subiabre**, un estudiante de Ciberseguridad y Técnico en Reparación e Instalación de Software. El sitio está diseñado para mostrar mis habilidades técnicas, experiencia profesional, proyectos anteriores y cómo los interesados pueden contactarme.
+Este repositorio contiene el examen final para la asignatura **Conceptos Técnicos** del **CFT Los Lagos**, donde se han cumplido una serie de actividades que abarcan cuestionarios, medallas en GitHub, creación de perfil profesional en LinkedIn, módulos de Microsoft Learn, y la creación de un portafolio web adaptado a dispositivos móviles.
 
 ## Tabla de Contenidos
-1. [Descripción](#descripción)
-2. [Tecnologías](#tecnologías)
-3. [Instalación](#instalación)
-4. [Uso](#uso)
-5. [Contribuciones](#contribuciones)
-6. [Licencia](#licencia)
-7. [Contacto](#contacto)
 
-## Tecnologías
+1. [Cuestionarios Formativos y Sumativos](#cuestionarios-formativos-y-sumativos)
+2. [Medallas en GitHub](#medallas-en-github)
+3. [Perfil Profesional en LinkedIn](#perfil-profesional-en-linkedin)
+4. [Módulos de Microsoft Learn sobre Git](#modulos-de-microsoft-learn-sobre-git)
+5. [Plantilla de Portafolio y Personalización](#plantilla-de-portafolio-y-personalización)
+6. [Repositorio en GitHub](#repositorio-en-github)
+7. [Capturas de Pantalla](#capturas-de-pantalla)
 
-Este proyecto está construido utilizando las siguientes tecnologías:
+## Cuestionarios Formativos y Sumativos
 
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **Bootstrap**
-- **Swiper.js**
-- **Font Awesome**
-- **GitHub Pages**
+He realizado todos los **cuestionarios formativos y sumativos** disponibles en la plataforma **Quinttos** relacionados con la asignatura. Estos cuestionarios han sido completados y me han permitido fortalecer mis conocimientos sobre los temas tratados.
 
-## Instalación
+### Captura de Pantalla
 
-1. Clona este repositorio:
-    ```bash
-    git clone https://github.com/tu-usuario/portafolio.git
-    ```
+![Cuestionarios Completados](imagenes/captura_cuestionarios.png)
 
-2. Abre el archivo `index.html` en tu navegador favorito.
+## Medallas en GitHub
 
-## Uso
+He obtenido al menos **5 medallas** en mi perfil de GitHub a través de actividades en repositorios, contribuciones, proyectos y otras dinámicas.
 
-- Visita la página principal para conocer mi perfil y habilidades.
-- Explora la sección de **Testimonios** para ver lo que dicen los clientes y compañeros de trabajo sobre mi desempeño.
-- En la sección de **Habilidades**, podrás encontrar las tecnologías y herramientas en las que tengo experiencia.
-- Haz clic en los enlaces de **LinkedIn** y **GitHub** para acceder a mis redes profesionales.
+### Captura de Pantalla del Perfil de GitHub
 
-## Contribuciones
+![Medallas de GitHub](imagenes/captura_medallas_github.png)
 
-Si deseas contribuir a este proyecto, por favor sigue estos pasos:
+## Perfil Profesional en LinkedIn
 
-1. Haz un fork de este repositorio.
-2. Crea una rama (`git checkout -b feature/mi-nueva-funcionalidad`).
-3. Haz tus cambios y realiza un commit (`git commit -m 'Agregué una nueva funcionalidad'`).
-4. Haz push a la rama (`git push origin feature/mi-nueva-funcionalidad`).
-5. Abre un Pull Request.
+He creado y completado un perfil profesional en **LinkedIn** con los siguientes puntos:
 
-Asegúrate de seguir buenas prácticas de código y documentar tus cambios adecuadamente.
+- Foto de perfil presentable.
+- Imagen de cabecera adecuada.
+- Publicación de experiencia laboral, proyectos y estudios.
+- Subida de al menos **3 diplomas, títulos o certificados**.
+- Agregado que estoy estudiando en el **CFT Los Lagos**.
+- Seguimiento de la página del **CFT Los Lagos**.
+- Envío de solicitud al docente.
+- Publicación de al menos **3 publicaciones** sobre avances, trabajos o aprendizajes.
+- Enlace a mi perfil de **GitHub**.
 
-## Licencia
+### Captura de Pantalla de mi Perfil de LinkedIn
 
-Este proyecto está bajo la Licencia MIT. Para más detalles, revisa el archivo [LICENSE](LICENSE).
+![Perfil de LinkedIn](imagenes/captura_linkedin.png)
 
-## Contacto
+## Módulos de Microsoft Learn sobre Git
 
-- **Correo Electrónico**: [adiel.subiabre@gmail.com](mailto:aa.subiabre@estudiantecft-ell.cl)
-- **LinkedIn**: [Adiel Subiabre](https://www.linkedin.com/in/adiel-alejandro-subiabre-diaz-070890340/)
-- **GitHub**: [XfoonkeeMoonkeeX](https://github.com/XfoonkeeMoonkeeX)
+He completado los siguientes **4 módulos de Microsoft Learn** sobre Git:
+
+1. **Introducción a GitHub Copilot**
+2. **Introducción a GitHub**
+3. **Introducción a Git**
+4. **Uso de GitHub Copilot con Python**
+
+### Captura de Pantalla de los Módulos Completados
+
+![Microsoft Learn](imagenes/captura_microsoft_learn.png)
+
+## Plantilla de Portafolio y Personalización
+
+He descargado y adaptado un **template de portafolio** desde [ThemeWagon](https://themewagon.com/theme-tag/portfolio-template/). He personalizado completamente el portafolio con mis datos, habilidades y certificaciones, para que no se vea como un template estándar.
+
+El portafolio incluye:
+
+- Enlaces importantes, como mi perfil de **LinkedIn** y **GitHub**.
+- Un **formulario de contacto** configurado con **FormSubmit** para recibir correos directamente en mi email.
+- El diseño es **funcional y responsive**, adaptado a dispositivos móviles.
+
+### Captura de Pantalla del Portafolio
+
+![Portafolio Web](imagenes/captura_portafolio.png)
+
+## Repositorio en GitHub
+
+Este repositorio contiene todo el material relacionado con el examen final, incluyendo:
+
+- El **portafolio web** alojado en el repositorio.
+- **Capturas de pantalla** de los cuestionarios, perfil de LinkedIn, medallas de GitHub, módulos de Microsoft Learn y el portafolio.
+- Un archivo `README.md` explicativo con todos los detalles de las evidencias.
+
+Licencia
+
+Este proyecto está bajo la Licencia MIT. Para más detalles, revisa el archivo LICENSE.
+Contacto
+
+    Correo Electrónico: adiel.subiabre@gmail.com
+    LinkedIn: Adiel Subiabre
+    GitHub: XfoonkeeMoonkeeX
