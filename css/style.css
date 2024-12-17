@@ -1,0 +1,503 @@
+/* Ajustar el contenedor del banner principal */
+header {
+    background-color: #0077b5; /* Color de fondo azul */
+    color: white; /* Texto blanco para que resalte */
+    padding: 50px 15px; /* Espaciado interno para darle más aire al contenido */
+    text-align: center; /* Centrar todo el contenido dentro del header */
+}
+
+/* Estilo del texto del nombre */
+header h1 {
+    font-size: 2.5rem; /* Aumentamos el tamaño del nombre */
+    font-weight: bold;
+    margin-bottom: 15px; /* Separación debajo del nombre */
+    color: #fff; /* Aseguramos que el nombre sea blanco */
+}
+
+/* Estilo para los subtítulos, como "Sobre mí" */
+header h2 {
+    font-size: 1.5rem; /* Ajuste del tamaño para los subtítulos */
+    font-weight: 600;
+    margin-top: 0;
+    margin-bottom: 25px; /* Espaciado entre el subtítulo y el resto del contenido */
+    color: #fff; /* Aseguramos que los subtítulos sean blancos */
+}
+
+/* Asegurarnos que el texto principal en el banner tenga buen contraste */
+header p {
+    font-size: 1rem; /* Ajuste de tamaño para el texto */
+    color: white; /* Texto blanco */
+    line-height: 1.5;
+    max-width: 900px; /* Limitar el ancho para que no se expanda demasiado */
+    margin: 0 auto; /* Centrar el párrafo */
+    padding: 0 15px; /* Espaciado lateral */
+}
+
+/* Asegurarse que el logo o imagen del banner sea responsiva */
+header img {
+    border-radius: 50%;
+    max-width: 200px; /* Limitar el tamaño de la imagen */
+    height: auto;
+    margin-top: 20px; /* Separación superior de la imagen */
+    margin-bottom: 20px; /* Separación inferior */
+}
+
+/* Aseguramos que el texto y el contenido se vean bien en pantallas pequeñas */
+@media (max-width: 768px) {
+    header {
+        padding: 30px 15px; /* Ajustamos el padding en pantallas pequeñas */
+    }
+    header h1 {
+        font-size: 2rem; /* Reducir el tamaño del nombre */
+    }
+    header h2 {
+        font-size: 1.25rem; /* Ajustar el tamaño de los subtítulos */
+    }
+    header p {
+        font-size: 0.9rem; /* Reducir un poco el tamaño del texto */
+        max-width: 100%; /* Asegurarnos de que el texto ocupe todo el ancho */
+    }
+}
+
+/* Estilo para el botón LinkedIn */
+.btn-linkedin {
+    background-color: #0077b5; /* Color de fondo de LinkedIn */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    border-radius: 30px; /* Bordes redondeados */
+}
+
+.btn-linkedin:hover {
+    background-color: #005582; /* Color más oscuro en hover */
+    color: white;
+    text-decoration: none; /* Eliminar subrayado en hover */
+}
+
+/* Estilo para el botón GitHub */
+.btn-github {
+    background-color: #333; /* Color de fondo de GitHub */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    border-radius: 30px; /* Bordes redondeados */
+}
+
+.btn-github:hover {
+    background-color: #444; /* Color más claro en hover */
+    color: white;
+    text-decoration: none; /* Eliminar subrayado en hover */
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #000 !important; /* Color de los enlaces */
+  }
+  
+  .navbar-light .navbar-brand {
+    color: #000 !important; /* Color del nombre */
+  }
+  
+  .navbar-light {
+    background-color: #f8f9fa; /* Color de fondo claro */
+  }
+  /* Estilo para el botón LinkedIn */
+.btn-linkedin {
+    background-color: #0077b5;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn-linkedin:hover {
+    background-color: #005a87;
+  }
+  
+  /* Estilo para el botón GitHub */
+  .btn-github {
+    background-color: #333;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn-github:hover {
+    background-color: #444;
+  }
+/* Estilo para el botón LinkedIn */
+.btn-linkedin {
+    background-color: #0077b5;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn-linkedin:hover {
+    background-color: #005a87;
+  }
+  
+  /* Estilo para el botón GitHub */
+  .btn-github {
+    background-color: #333;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn-github:hover {
+    background-color: #444;
+  }
+  
+  /* Añadir iconos de FontAwesome */
+  .fab {
+    margin-right: 8px;
+  }
+  /* Personalización de los botones */
+.btn-linkedin {
+    background-color: #0077B5;
+    color: white;
+}
+
+.btn-linkedin:hover {
+    background-color: #005582;
+}
+
+.btn-github {
+    background-color: #333;
+    color: white;
+}
+
+.btn-github:hover {
+    background-color: #555;
+}
+  /* Hacer que las secciones tengan un ancho más adecuado */
+.container {
+    max-width: 800px;  /* Limitar el ancho de la sección */
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  /* Estilos para la lista de habilidades */
+  ul.list-unstyled {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  ul.list-unstyled li {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;  /* Espaciado entre los elementos */
+  }
+  
+  /* Estilos para el formulario */
+  .form-group {
+    margin-bottom: 1.5rem;  /* Espaciado entre cada campo del formulario */
+  }
+  
+  textarea.form-control {
+    resize: vertical;  /* Permite que el área de texto se ajuste verticalmente */
+  }
+  
+  /* Asegurarse de que el botón se vea bien */
+  .btn {
+    width: 100%;  /* Botón que ocupa todo el ancho */
+  }
+  /* Ajuste para el contenedor */
+.container {
+    max-width: 100%;  /* Ancho completo */
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 15px;  /* Espaciado lateral */
+}
+
+/* Asegurando que el área de mensaje sea visible */
+.contact-section .form-control#message {
+    min-height: 150px;
+    max-height: 300px;
+}
+
+/* Ajustando el padding del header */
+header {
+    padding: 30px 15px;  /* Menos padding */
+}
+
+/* Evitar conflictos con otros botones */
+.btn {
+    width: 100%;  /* Asegura que el botón ocupe todo el ancho */
+}
+/* Sección de Contacto */
+.contact-section {
+    padding: 50px 15px; /* Espaciado adecuado */
+    background-color: #f8f9fa;
+}
+
+.contact-section .form-control {
+    border-radius: 0.375rem;
+    padding: 15px; /* Reduce el padding */
+    font-size: 1rem;
+}
+
+.contact-section .form-label {
+    font-weight: bold;
+}
+
+.contact-section .form-control#message {
+    height: 150px;
+}
+
+.contact-section .btn {
+    padding: 10px; /* Reduce el padding */
+    font-size: 1.1rem;
+}
+
+/* Estilo para los botones */
+.btn-color {
+    color: #0044cc;
+    border-color: #0044cc;
+}
+
+.btn-color:hover {
+    background-color: #0044cc;
+    color: white;
+}
+
+/* Estilo para las imágenes */
+.img-fluid {
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Para asegurar que los elementos sean responsivos */
+@media (max-width: 767px) {
+    .post-item {
+        margin-bottom: 30px;
+    }
+}
+
+/* Estilo para el footer */
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 40px 0;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Ajuste para el contenedor */
+.container-sm {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+/* Enlaces en el footer */
+ul.list-unstyled {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul.list-unstyled li {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem; /* Espaciado entre los elementos */
+}
+
+.fab {
+    margin-right: 8px;
+}
+
+/* Estilos para el footer */
+footer .info-box {
+    margin-bottom: 20px;
+}
+
+/* Hacer que el formulario sea más accesible en dispositivos pequeños */
+@media (max-width: 768px) {
+    .contact-section {
+        padding: 30px 15px; /* Ajustar el padding */
+    }
+
+    .contact-section .form-control {
+        font-size: 0.9rem;
+    }
+
+    .contact-section .btn {
+        width: 100%; /* Botón de envío a pantalla completa en móvil */
+    }
+}
+/* Estilo para las tarjetas de testimonio */
+.testimonial-card {
+    background-color: #fff;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+  }
+  
+  .testimonial-card:hover {
+    box-shadow: 0px 6px 16px rgba(0, 0, 0, 0.15);
+    transform: translateY(-5px);
+  }
+  
+  /* Estilo para el texto de los testimonios */
+  .testimonial-card p {
+    font-style: italic;
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  .testimonial-card h5 {
+    font-weight: bold;
+    color: #0077b5;
+  }
+  
+  .testimonial-card .postd {
+    font-size: 0.9rem;
+    color: #777;
+  }
+  
+  /* Paginación de Swiper */
+  .testimonial-swiper-pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  /* Hacer que los testimonios sean más atractivos */
+  .swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  /* Estilo de Swiper */
+  .testimonial-swiper {
+    margin-top: 50px;
+  }
+  
+  .testimonial-swiper .swiper-pagination-bullet {
+    background-color: #0077b5;
+    opacity: 1;
+  }
+  
+  .testimonial-swiper .swiper-pagination-bullet-active {
+    background-color: #005582;
+  }
+  .testimonial-card {
+    background-color: #f8f9fa;  /* Fondo claro */
+    color: #333;                /* Texto oscuro */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease;
+  }
+  
+  .testimonial-card.bg-dark {
+    background-color: #343a40;  /* Fondo oscuro */
+    color: #ebe1e1;                /* Texto claro */
+  }
+  
+  .testimonial-card:hover {
+    background-color: #e2e6ea;  /* Fondo claro cuando se pasa el mouse */
+    color: #333;                /* Texto oscuro al hacer hover */
+  }
+  /* Testimonios con fondo blanco */
+.testimonial-card {
+    background-color: #f8f9fa; /* Fondo más claro y cálido */
+    color: #333333; /* Texto oscuro para un buen contraste */
+    border: 1px solid #ddd; /* Borde sutil */
+  }
+  
+  .testimonial-card h5 {
+    color: #0044cc; /* Color de título más vibrante */
+  }
+  
+  /* Testimonios destacados */
+  .testimonial-card.bg-dark {
+    background-color: #0044cc; /* Fondo azul más vibrante */
+    color: #ffffff; /* Texto blanco para buen contraste */
+  }
+  
+  .testimonial-card.bg-dark h5 {
+    color: #ffcc00; /* Título con color amarillo para destacar */
+  }
+  
+  .testimonial-card.bg-dark .postd {
+    color: #d0d0d0; /* Un gris claro para la fecha */
+  }
+  /* Testimonios con fondo oscuro */
+.testimonial-card.bg-dark {
+    background-color: #0044cc; /* Fondo azul vibrante */
+    color: #ffffff; /* Texto blanco para buen contraste */
+  }
+  
+  .testimonial-card.bg-dark h5 {
+    color: #ffcc00; /* Título amarillo para destacar */
+  }
+  
+  .testimonial-card.bg-dark .postd {
+    color: #d0d0d0; /* Gris claro para la fecha */
+  }
+  
+  /* Para asegurarnos de que los textos sean legibles, ajustamos la opacidad */
+  .testimonial-card.bg-dark p {
+    color: #ffffff !important; /* Aseguramos que el texto sea blanco y legible */
+  }
+  .welcome-section {
+    position: relative;
+    color: white;
+  }
+  
+  .welcome-section::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.4); /* Capa semitransparente para mejorar contraste */
+    z-index: -1; /* Asegura que la capa esté debajo del contenido */
+  }
+  #habilidades ul {
+    list-style: none; /* Elimina los puntos predeterminados de la lista */
+    padding: 0; /* Elimina el relleno */
+    text-align: center; /* Centra el texto */
+  }
+  
+  #habilidades li {
+    margin-bottom: 10px; /* Espacio entre los elementos de la lista */
+    font-size: 1.1rem; /* Ajusta el tamaño del texto */
+  }
+  section img {
+    max-width: 100%; /* La imagen nunca será más grande que su contenedor */
+    height: auto;    /* Mantiene la proporción de la imagen */
+    margin-top: 20px; /* Espacio adicional si es necesario */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Agrega una sombra sutil */
+  }
+  .imagen-fondo {
+    background-image: url('imagenes/nueva-imagen.jpg'); /* Ruta de la imagen */
+    background-size: cover; /* La imagen cubre toda la sección */
+    background-position: center; /* Centra la imagen */
+    background-attachment: fixed; /* Hace que el fondo sea estático */
+    color: white; /* Texto en blanco para contraste */
+    position: relative; /* Posicionamiento para la sección */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6); /* Sombra para el texto */
+  }
+  
+  .imagen-fondo .container {
+    background: rgba(0, 0, 0, 0.5); /* Oscurece un poco el fondo para resaltar el texto */
+    border-radius: 10px; /* Bordes redondeados */
+    padding: 20px;
+  }
+    
