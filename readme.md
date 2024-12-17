@@ -42,7 +42,7 @@ He realizado todos los **cuestionarios formativos y sumativos** disponibles en l
 
 ## Medallas en GitHub
 
-He obtenido al menos **5 medallas** en mi perfil de GitHub a través de actividades en repositorios, contribuciones, proyectos y otras dinámicas.
+He obtenido al menos **4 medallas** en mi perfil de GitHub a través de actividades en repositorios, contribuciones, proyectos y otras dinámicas.
 
 ### Captura de Pantalla del Perfil de GitHub
 
