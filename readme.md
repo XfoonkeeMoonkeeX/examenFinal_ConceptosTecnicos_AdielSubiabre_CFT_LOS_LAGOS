@@ -1,6 +1,6 @@
 # Examen Final: Conceptos Técnicos - Adiel Subiabre
 
-Este repositorio contiene el examen final para la asignatura **Conceptos Técnicos** del **CFT Los Lagos**, donde se han cumplido una serie de actividades que abarcan cuestionarios, medallas en GitHub, creación de perfil profesional en LinkedIn, módulos de Microsoft Learn, y la creación de un portafolio web adaptado a dispositivos móviles.
+Este repositorio contiene el examen final para la asignatura **Conceptos Técnicos Informaticos** del **CFT Los Lagos**, donde se han cumplido una serie de actividades que abarcan cuestionarios, medallas en GitHub, creación de perfil profesional en LinkedIn, módulos de Microsoft Learn, y la creación de un portafolio web adaptado a dispositivos móviles.
 
 ## Tabla de Contenidos
 
