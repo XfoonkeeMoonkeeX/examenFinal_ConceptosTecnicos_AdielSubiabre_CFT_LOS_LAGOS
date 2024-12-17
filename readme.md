@@ -91,7 +91,7 @@ El portafolio incluye:
 
 ### Captura de Pantalla del Portafolio
 
-![Portafolio Web](imagenes/captura_portafolio.png)
+![Portafolio Web](imagenes/captura_portafolio.jpeg)
 
 ## Repositorio en GitHub
 
