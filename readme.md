@@ -64,7 +64,7 @@ He creado y completado un perfil profesional en **LinkedIn** con los siguientes 
 
 ### Captura de Pantalla de mi Perfil de LinkedIn
 
-![Perfil de LinkedIn](imagenes/captura_linkedin.png)
+![Perfil de LinkedIn](imagenes/captura_linkedin.jpeg)
 
 ## Módulos de Microsoft Learn sobre Git
 
