@@ -18,27 +18,27 @@ He realizado todos los **cuestionarios formativos y sumativos** disponibles en l
 
 ### Cuestionario 1
 
-![Cuestionario 1](imagenes/captura_cuestionario_1.png)
+![Cuestionario 1](imagenes/captura_cuestionario_1.jpg)
 
 ### Cuestionario 2
 
-![Cuestionario 2](imagenes/captura_cuestionario_2.png)
+![Cuestionario 2](imagenes/captura_cuestionario_2.jpg)
 
 ### Cuestionario 3
 
-![Cuestionario 3](imagenes/captura_cuestionario_3.png)
+![Cuestionario 3](imagenes/captura_cuestionario_3.jpg)
 
 ### Cuestionario 4
 
-![Cuestionario 4](imagenes/captura_cuestionario_4.png)
+![Cuestionario 4](imagenes/captura_cuestionario_4.jpg)
 
 ### Cuestionario 5
 
-![Cuestionario 5](imagenes/captura_cuestionario_5.png)
+![Cuestionario 5](imagenes/captura_cuestionario_5.jpg)
 
 ### Cuestionario 6
 
-![Cuestionario 6](imagenes/captura_cuestionario_6.png)
+![Cuestionario 6](imagenes/captura_cuestionario_6.jpg)
 
 ## Medallas en GitHub
 
